@@ -1,0 +1,5 @@
+Wirelessly control WS2811 pixels on ESP8266 using UDP.
+
+Formats:
+Kinet - Old skool CK UDP format
+Opc - OpenPixelControl over UDP
